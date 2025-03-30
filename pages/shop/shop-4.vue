@@ -190,15 +190,33 @@ export default {
             cartproduct: {},
         }
     },
+    created() {
+    this.$store.dispatch('products/getallProduct')
+    .then(() => {
+        // Wait until products are fetched before performing actions
+        if (this.productslist && this.productslist.length > 0) {
+            this.$store.dispatch('products/shuffleProduct', this.productslist.slice(0, 30));
+            this.getPaginate();
+            this.updatePaginate(1);
+        } else {
+            console.error('Products list is empty or not fetched yet');
+        }
+    })
+    .catch(error => {
+        console.error('Error fetching products:', error);
+    });
+},
+
     computed: {
         ...mapState({
-            shuffleproducts: state => state.products.shuffleproducts
+            shuffleproducts: (state) => state.products.shuffleproducts || [] ,
+            productslist: (state) => state.products.productslist
         }),
     },
     mounted() {
         this.getPaginate()
         this.updatePaginate(1)
-        
+        this.$store.dispatch('products/shuffleProduct', this.productslist.slice(0, 30))
         // For scroll page top for every Route 
         window.scrollTo(0, 0)
     },
@@ -259,7 +277,6 @@ export default {
             this.$store.dispatch('products/shuffleProduct', array.slice(0, 30))  
         },
         getallProduct(){
-            console.log("Hello world!");
             this.$store.dispatch('products/getallProduct')
         }
     },

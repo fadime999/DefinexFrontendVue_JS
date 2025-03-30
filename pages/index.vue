@@ -189,7 +189,7 @@
 </template>
 
 <script>
-import { mapState } from "vuex";
+import { mapState,mapActions  } from "vuex";
 import ProductBox1 from "~/components/product-box/ProductBox1";
 import Timer from "../components/widgets/Timer";
 import InstagramArea from "../components/instagram/InstagramArea";
@@ -331,6 +331,9 @@ export default {
     ...mapState({
       productslist: (state) => state.products.productslist,
     }),
+  },
+  created() {
+    this.$store.dispatch('products/shuffleProduct');
   },
   mounted() {
     // For scroll page top for every Route

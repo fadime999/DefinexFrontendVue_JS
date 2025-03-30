@@ -88,16 +88,14 @@ const actions = {
     async getallProduct({ commit }) {
         try {
             const response = await ProductDataService.getallProduct();
-            console.log("API Response:", response);
-    
             if (response?.data?.isSuccess && Array.isArray(response.data.result)) {
                 commit('setProducts', response.data.result); // Doğru alanı kullan
                 
             } else {
-                console.error("API yanıtı beklenen formatta değil:", response.data);
+                throw new Error("API yanıtı beklenen formatta değil");
             }
         } catch (error) {
-            console.error("Ürünleri çekerken hata oluştu:", error);
+            throw new Error("Ürünleri çekerken hata oluştu:", error);
         }
     },
     addToWishlist: (context, payload) => {
