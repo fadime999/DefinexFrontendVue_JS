@@ -170,7 +170,11 @@ export default {
       quantity: 1,
     };
   },
+  created() {
+    this.$store.dispatch('cart/cartItems'),
+    this.$store.dispatch('cart/cartTotalAmount')
 
+  },
   computed: {
     ...mapGetters({
       cart: "cart/cartItems",
