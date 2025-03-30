@@ -22,3 +22,12 @@ Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
 ```sh
 npm install --force
 ```
+```sh
+npm install axios --force
+```
+### 3.Sunucuyu Başlatın
+Projeyi çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
+```sh
+npm run dev
+```
+
