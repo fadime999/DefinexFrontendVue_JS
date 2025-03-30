@@ -1,0 +1,352 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "_name": "_31c67194"
+  },
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_66efe8d0"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_c3360124"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_73473930"
+  },
+  {
+    "name": "coming-soon",
+    "path": "/coming-soon",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\coming-soon.vue",
+    "chunkName": "pages/coming-soon",
+    "_name": "_65376545"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_f7c838f6"
+  },
+  {
+    "name": "electronics",
+    "path": "/electronics",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\electronics.vue",
+    "chunkName": "pages/electronics",
+    "_name": "_a3870416"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_d9e52bd8"
+  },
+  {
+    "name": "furniture",
+    "path": "/furniture",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\furniture.vue",
+    "chunkName": "pages/furniture",
+    "_name": "_342bc470"
+  },
+  {
+    "name": "grocery",
+    "path": "/grocery",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\grocery.vue",
+    "chunkName": "pages/grocery",
+    "_name": "_89f61cea"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_ff35a932"
+  },
+  {
+    "name": "lookbook",
+    "path": "/lookbook",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\lookbook.vue",
+    "chunkName": "pages/lookbook",
+    "_name": "_6949de0c"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\index.vue",
+    "chunkName": "pages/my-account/index",
+    "_name": "_27d91544"
+  },
+  {
+    "name": "pharmacy",
+    "path": "/pharmacy",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\pharmacy.vue",
+    "chunkName": "pages/pharmacy",
+    "_name": "_081c6e25"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_35e58f09"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_3b86e015"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_53beb79a"
+  },
+  {
+    "name": "vendor-dashboard",
+    "path": "/vendor-dashboard",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\vendor-dashboard\\\\index.vue",
+    "chunkName": "pages/vendor-dashboard/index",
+    "_name": "_6c738fa1"
+  },
+  {
+    "name": "blog-blog-2",
+    "path": "/blog/blog-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\blog\\\\blog-2.vue",
+    "chunkName": "pages/blog/blog-2",
+    "_name": "_8f74e14a"
+  },
+  {
+    "name": "blog-blog-3",
+    "path": "/blog/blog-3",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\blog\\\\blog-3.vue",
+    "chunkName": "pages/blog/blog-3",
+    "_name": "_8f58b248"
+  },
+  {
+    "name": "blog-blog-single-2",
+    "path": "/blog/blog-single-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\blog\\\\blog-single-2.vue",
+    "chunkName": "pages/blog/blog-single-2",
+    "_name": "_bcc7dd58"
+  },
+  {
+    "name": "cart-cart-2",
+    "path": "/cart/cart-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\cart\\\\cart-2.vue",
+    "chunkName": "pages/cart/cart-2",
+    "_name": "_07507a52"
+  },
+  {
+    "name": "cart-cart-3",
+    "path": "/cart/cart-3",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\cart\\\\cart-3.vue",
+    "chunkName": "pages/cart/cart-3",
+    "_name": "_07344b50"
+  },
+  {
+    "name": "cart-cart-4",
+    "path": "/cart/cart-4",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\cart\\\\cart-4.vue",
+    "chunkName": "pages/cart/cart-4",
+    "_name": "_07181c4e"
+  },
+  {
+    "name": "cart-empty-cart",
+    "path": "/cart/empty-cart",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\cart\\\\empty-cart.vue",
+    "chunkName": "pages/cart/empty-cart",
+    "_name": "_5bf77732"
+  },
+  {
+    "name": "contact-us-contact-us-2",
+    "path": "/contact-us/contact-us-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\contact-us\\\\contact-us-2.vue",
+    "chunkName": "pages/contact-us/contact-us-2",
+    "_name": "_4ec45b6d"
+  },
+  {
+    "name": "my-account-account-details",
+    "path": "/my-account/account-details",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\account-details.vue",
+    "chunkName": "pages/my-account/account-details",
+    "_name": "_06e51e94"
+  },
+  {
+    "name": "my-account-account-info-edit",
+    "path": "/my-account/account-info-edit",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\account-info-edit.vue",
+    "chunkName": "pages/my-account/account-info-edit",
+    "_name": "_89ab9bca"
+  },
+  {
+    "name": "my-account-addresses",
+    "path": "/my-account/addresses",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\addresses.vue",
+    "chunkName": "pages/my-account/addresses",
+    "_name": "_a9a0f9d8"
+  },
+  {
+    "name": "my-account-checkout-1",
+    "path": "/my-account/checkout-1",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\checkout-1.vue",
+    "chunkName": "pages/my-account/checkout-1",
+    "_name": "_6150cc68"
+  },
+  {
+    "name": "my-account-checkout-2",
+    "path": "/my-account/checkout-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\checkout-2.vue",
+    "chunkName": "pages/my-account/checkout-2",
+    "_name": "_615ee3e9"
+  },
+  {
+    "name": "my-account-compare",
+    "path": "/my-account/compare",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\compare.vue",
+    "chunkName": "pages/my-account/compare",
+    "_name": "_6c359957"
+  },
+  {
+    "name": "my-account-downloads",
+    "path": "/my-account/downloads",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\downloads.vue",
+    "chunkName": "pages/my-account/downloads",
+    "_name": "_88b8f846"
+  },
+  {
+    "name": "my-account-order-tracking",
+    "path": "/my-account/order-tracking",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\order-tracking.vue",
+    "chunkName": "pages/my-account/order-tracking",
+    "_name": "_7e9ea758"
+  },
+  {
+    "name": "my-account-orders",
+    "path": "/my-account/orders",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\orders.vue",
+    "chunkName": "pages/my-account/orders",
+    "_name": "_50faf93a"
+  },
+  {
+    "name": "my-account-wishlist",
+    "path": "/my-account/wishlist",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\my-account\\\\wishlist.vue",
+    "chunkName": "pages/my-account/wishlist",
+    "_name": "_04c9e4c3"
+  },
+  {
+    "name": "product-product-single-2",
+    "path": "/product/product-single-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\product\\\\product-single-2.vue",
+    "chunkName": "pages/product/product-single-2",
+    "_name": "_32117b90"
+  },
+  {
+    "name": "product-product-single-3",
+    "path": "/product/product-single-3",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\product\\\\product-single-3.vue",
+    "chunkName": "pages/product/product-single-3",
+    "_name": "_31f54c8e"
+  },
+  {
+    "name": "shop-shop-2",
+    "path": "/shop/shop-2",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\shop\\\\shop-2.vue",
+    "chunkName": "pages/shop/shop-2",
+    "_name": "_7209b903"
+  },
+  {
+    "name": "shop-shop-3",
+    "path": "/shop/shop-3",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\shop\\\\shop-3.vue",
+    "chunkName": "pages/shop/shop-3",
+    "_name": "_7217d084"
+  },
+  {
+    "name": "shop-shop-4",
+    "path": "/shop/shop-4",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\shop\\\\shop-4.vue",
+    "chunkName": "pages/shop/shop-4",
+    "_name": "_7225e805"
+  },
+  {
+    "name": "shop-shop-5",
+    "path": "/shop/shop-5",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\shop\\\\shop-5.vue",
+    "chunkName": "pages/shop/shop-5",
+    "_name": "_7233ff86"
+  },
+  {
+    "name": "vendor-dashboard-add-product",
+    "path": "/vendor-dashboard/add-product",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\vendor-dashboard\\\\add-product.vue",
+    "chunkName": "pages/vendor-dashboard/add-product",
+    "_name": "_3fe70e5c"
+  },
+  {
+    "name": "vendor-dashboard-order",
+    "path": "/vendor-dashboard/order",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\vendor-dashboard\\\\order.vue",
+    "chunkName": "pages/vendor-dashboard/order",
+    "_name": "_f5835fc6"
+  },
+  {
+    "name": "vendor-dashboard-product",
+    "path": "/vendor-dashboard/product",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\vendor-dashboard\\\\product.vue",
+    "chunkName": "pages/vendor-dashboard/product",
+    "_name": "_98732904"
+  },
+  {
+    "name": "vendor-dashboard-profile",
+    "path": "/vendor-dashboard/profile",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\vendor-dashboard\\\\profile.vue",
+    "chunkName": "pages/vendor-dashboard/profile",
+    "_name": "_17463b38"
+  },
+  {
+    "name": "vendor-dashboard-setting",
+    "path": "/vendor-dashboard/setting",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\vendor-dashboard\\\\setting.vue",
+    "chunkName": "pages/vendor-dashboard/setting",
+    "_name": "_0566145f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9284ef60"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_c6a343b4"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id?",
+    "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\andshop_vue\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id",
+    "_name": "_2593571d"
+  }
+]
