@@ -3,300 +3,350 @@
     "name": "404",
     "path": "/404",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\404.vue",
-    "chunkName": "pages/404"
+    "chunkName": "pages/404",
+    "_name": "_a26af65a"
   },
   {
     "name": "about-us",
     "path": "/about-us",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\about-us.vue",
-    "chunkName": "pages/about-us"
+    "chunkName": "pages/about-us",
+    "_name": "_198db55a"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_46045fea"
   },
   {
     "name": "cart",
     "path": "/cart",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\cart\\\\index.vue",
-    "chunkName": "pages/cart/index"
+    "chunkName": "pages/cart/index",
+    "_name": "_9c3fec66"
   },
   {
     "name": "coming-soon",
     "path": "/coming-soon",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\coming-soon.vue",
-    "chunkName": "pages/coming-soon"
+    "chunkName": "pages/coming-soon",
+    "_name": "_b85f943c"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\contact-us\\\\index.vue",
-    "chunkName": "pages/contact-us/index"
+    "chunkName": "pages/contact-us/index",
+    "_name": "_1be9eb3c"
   },
   {
     "name": "electronics",
     "path": "/electronics",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\electronics.vue",
-    "chunkName": "pages/electronics"
+    "chunkName": "pages/electronics",
+    "_name": "_265562dc"
   },
   {
     "name": "faq",
     "path": "/faq",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\faq.vue",
-    "chunkName": "pages/faq"
+    "chunkName": "pages/faq",
+    "_name": "_5abb27b1"
   },
   {
     "name": "furniture",
     "path": "/furniture",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\furniture.vue",
-    "chunkName": "pages/furniture"
+    "chunkName": "pages/furniture",
+    "_name": "_310a184d"
   },
   {
     "name": "grocery",
     "path": "/grocery",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\grocery.vue",
-    "chunkName": "pages/grocery"
+    "chunkName": "pages/grocery",
+    "_name": "_543098a8"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_1399f5c4"
   },
   {
     "name": "lookbook",
     "path": "/lookbook",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\lookbook.vue",
-    "chunkName": "pages/lookbook"
+    "chunkName": "pages/lookbook",
+    "_name": "_57a44d7d"
   },
   {
     "name": "my-account",
     "path": "/my-account",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\index.vue",
-    "chunkName": "pages/my-account/index"
+    "chunkName": "pages/my-account/index",
+    "_name": "_d46f87be"
   },
   {
     "name": "pharmacy",
     "path": "/pharmacy",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\pharmacy.vue",
-    "chunkName": "pages/pharmacy"
+    "chunkName": "pages/pharmacy",
+    "_name": "_d734aab0"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\privacy-policy.vue",
-    "chunkName": "pages/privacy-policy"
+    "chunkName": "pages/privacy-policy",
+    "_name": "_a1bbc568"
   },
   {
     "name": "register",
     "path": "/register",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_705fc6d0"
   },
   {
     "name": "shop",
     "path": "/shop",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\shop\\\\index.vue",
-    "chunkName": "pages/shop/index"
+    "chunkName": "pages/shop/index",
+    "_name": "_db50ef92"
   },
   {
     "name": "vendor-dashboard",
     "path": "/vendor-dashboard",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\vendor-dashboard\\\\index.vue",
-    "chunkName": "pages/vendor-dashboard/index"
+    "chunkName": "pages/vendor-dashboard/index",
+    "_name": "_42af5cbe"
   },
   {
     "name": "blog-blog-2",
     "path": "/blog/blog-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\blog\\\\blog-2.vue",
-    "chunkName": "pages/blog/blog-2"
+    "chunkName": "pages/blog/blog-2",
+    "_name": "_4cc6d25e"
   },
   {
     "name": "blog-blog-3",
     "path": "/blog/blog-3",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\blog\\\\blog-3.vue",
-    "chunkName": "pages/blog/blog-3"
+    "chunkName": "pages/blog/blog-3",
+    "_name": "_4cd4e9df"
   },
   {
     "name": "blog-blog-single-2",
     "path": "/blog/blog-single-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\blog\\\\blog-single-2.vue",
-    "chunkName": "pages/blog/blog-single-2"
+    "chunkName": "pages/blog/blog-single-2",
+    "_name": "_505cf4f1"
   },
   {
     "name": "cart-cart-2",
     "path": "/cart/cart-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\cart\\\\cart-2.vue",
-    "chunkName": "pages/cart/cart-2"
+    "chunkName": "pages/cart/cart-2",
+    "_name": "_de4df44c"
   },
   {
     "name": "cart-cart-3",
     "path": "/cart/cart-3",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\cart\\\\cart-3.vue",
-    "chunkName": "pages/cart/cart-3"
+    "chunkName": "pages/cart/cart-3",
+    "_name": "_de31c54a"
   },
   {
     "name": "cart-cart-4",
     "path": "/cart/cart-4",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\cart\\\\cart-4.vue",
-    "chunkName": "pages/cart/cart-4"
+    "chunkName": "pages/cart/cart-4",
+    "_name": "_de159648"
   },
   {
     "name": "cart-empty-cart",
     "path": "/cart/empty-cart",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\cart\\\\empty-cart.vue",
-    "chunkName": "pages/cart/empty-cart"
+    "chunkName": "pages/cart/empty-cart",
+    "_name": "_784980b5"
   },
   {
     "name": "contact-us-contact-us-2",
     "path": "/contact-us/contact-us-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\contact-us\\\\contact-us-2.vue",
-    "chunkName": "pages/contact-us/contact-us-2"
+    "chunkName": "pages/contact-us/contact-us-2",
+    "_name": "_400231f0"
   },
   {
     "name": "my-account-account-details",
     "path": "/my-account/account-details",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\account-details.vue",
-    "chunkName": "pages/my-account/account-details"
+    "chunkName": "pages/my-account/account-details",
+    "_name": "_dbe9d59e"
   },
   {
     "name": "my-account-account-info-edit",
     "path": "/my-account/account-info-edit",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\account-info-edit.vue",
-    "chunkName": "pages/my-account/account-info-edit"
+    "chunkName": "pages/my-account/account-info-edit",
+    "_name": "_14acf578"
   },
   {
     "name": "my-account-addresses",
     "path": "/my-account/addresses",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\addresses.vue",
-    "chunkName": "pages/my-account/addresses"
+    "chunkName": "pages/my-account/addresses",
+    "_name": "_a574191e"
   },
   {
     "name": "my-account-checkout-1",
     "path": "/my-account/checkout-1",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\checkout-1.vue",
-    "chunkName": "pages/my-account/checkout-1"
+    "chunkName": "pages/my-account/checkout-1",
+    "_name": "_bbef30aa"
   },
   {
     "name": "my-account-checkout-2",
     "path": "/my-account/checkout-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\checkout-2.vue",
-    "chunkName": "pages/my-account/checkout-2"
+    "chunkName": "pages/my-account/checkout-2",
+    "_name": "_bbd301a8"
   },
   {
     "name": "my-account-compare",
     "path": "/my-account/compare",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\compare.vue",
-    "chunkName": "pages/my-account/compare"
+    "chunkName": "pages/my-account/compare",
+    "_name": "_1af67cf4"
   },
   {
     "name": "my-account-downloads",
     "path": "/my-account/downloads",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\downloads.vue",
-    "chunkName": "pages/my-account/downloads"
+    "chunkName": "pages/my-account/downloads",
+    "_name": "_848c178c"
   },
   {
     "name": "my-account-order-tracking",
     "path": "/my-account/order-tracking",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\order-tracking.vue",
-    "chunkName": "pages/my-account/order-tracking"
+    "chunkName": "pages/my-account/order-tracking",
+    "_name": "_59d2ee17"
   },
   {
     "name": "my-account-orders",
     "path": "/my-account/orders",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\orders.vue",
-    "chunkName": "pages/my-account/orders"
+    "chunkName": "pages/my-account/orders",
+    "_name": "_27783826"
   },
   {
     "name": "my-account-wishlist",
     "path": "/my-account/wishlist",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\my-account\\\\wishlist.vue",
-    "chunkName": "pages/my-account/wishlist"
+    "chunkName": "pages/my-account/wishlist",
+    "_name": "_2e2574c6"
   },
   {
     "name": "product-product-single-2",
     "path": "/product/product-single-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\product\\\\product-single-2.vue",
-    "chunkName": "pages/product/product-single-2"
+    "chunkName": "pages/product/product-single-2",
+    "_name": "_1d743c15"
   },
   {
     "name": "product-product-single-3",
     "path": "/product/product-single-3",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\product\\\\product-single-3.vue",
-    "chunkName": "pages/product/product-single-3"
+    "chunkName": "pages/product/product-single-3",
+    "_name": "_1d825396"
   },
   {
     "name": "shop-shop-2",
     "path": "/shop/shop-2",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\shop\\\\shop-2.vue",
-    "chunkName": "pages/shop/shop-2"
+    "chunkName": "pages/shop/shop-2",
+    "_name": "_068afc06"
   },
   {
     "name": "shop-shop-3",
     "path": "/shop/shop-3",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\shop\\\\shop-3.vue",
-    "chunkName": "pages/shop/shop-3"
+    "chunkName": "pages/shop/shop-3",
+    "_name": "_06991387"
   },
   {
     "name": "shop-shop-4",
     "path": "/shop/shop-4",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\shop\\\\shop-4.vue",
-    "chunkName": "pages/shop/shop-4"
+    "chunkName": "pages/shop/shop-4",
+    "_name": "_06a72b08"
   },
   {
     "name": "shop-shop-5",
     "path": "/shop/shop-5",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\shop\\\\shop-5.vue",
-    "chunkName": "pages/shop/shop-5"
+    "chunkName": "pages/shop/shop-5",
+    "_name": "_06b54289"
   },
   {
     "name": "vendor-dashboard-add-product",
     "path": "/vendor-dashboard/add-product",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\vendor-dashboard\\\\add-product.vue",
-    "chunkName": "pages/vendor-dashboard/add-product"
+    "chunkName": "pages/vendor-dashboard/add-product",
+    "_name": "_398f3c2f"
   },
   {
     "name": "vendor-dashboard-order",
     "path": "/vendor-dashboard/order",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\vendor-dashboard\\\\order.vue",
-    "chunkName": "pages/vendor-dashboard/order"
+    "chunkName": "pages/vendor-dashboard/order",
+    "_name": "_5b7a1d3a"
   },
   {
     "name": "vendor-dashboard-product",
     "path": "/vendor-dashboard/product",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\vendor-dashboard\\\\product.vue",
-    "chunkName": "pages/vendor-dashboard/product"
+    "chunkName": "pages/vendor-dashboard/product",
+    "_name": "_2b79354a"
   },
   {
     "name": "vendor-dashboard-profile",
     "path": "/vendor-dashboard/profile",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\vendor-dashboard\\\\profile.vue",
-    "chunkName": "pages/vendor-dashboard/profile"
+    "chunkName": "pages/vendor-dashboard/profile",
+    "_name": "_4dc33515"
   },
   {
     "name": "vendor-dashboard-setting",
     "path": "/vendor-dashboard/setting",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\vendor-dashboard\\\\setting.vue",
-    "chunkName": "pages/vendor-dashboard/setting"
+    "chunkName": "pages/vendor-dashboard/setting",
+    "_name": "_3be30e3c"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_49f252ad"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug"
+    "chunkName": "pages/blog/_slug",
+    "_name": "_4971a27a"
   },
   {
     "name": "product-id",
     "path": "/product/:id?",
     "component": "C:\\\\Users\\\\fadim\\\\Desktop\\\\DefinexFrontendVue_JS\\\\pages\\\\product\\\\_id.vue",
-    "chunkName": "pages/product/_id"
+    "chunkName": "pages/product/_id",
+    "_name": "_8bd6cbc0"
   }
 ]
