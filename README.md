@@ -36,6 +36,8 @@ npm run dev
 
 <img width="959" alt="Ekran görüntüsü 2025-03-30 120004" src="https://github.com/user-attachments/assets/1547fab2-2c45-447f-a567-efcc45b6a389" />
 
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/8cecf0ab-8788-4cd6-bdd9-c21f61ab8e9b" />
+
 <img width="960" alt="Ekran görüntüsü 2025-03-30 134257" src="https://github.com/user-attachments/assets/3ac435ad-466d-4a1b-b210-a513352c6660" />
 
 
